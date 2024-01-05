@@ -12,6 +12,7 @@
     "core-js": "^3.25.3",
     "nuxt": "^3.9.0",
     "pinia": "^2.1.7",
+    "vite": "^5.0.11",
     "vue": "^2.7.16",
     "vue-server-renderer": "^2.7.10",
     "vue-template-compiler": "^2.7.10"
